@@ -7,7 +7,7 @@ function alphabetPosition(text) {
     return string;
   }
 
-
+console.log(alphabetPosition('This is a new 234 string +0&^%'))
 /**************************************
  * Other Solutions from other users
  * SOLUTION 1
